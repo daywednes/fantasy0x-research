@@ -8,11 +8,11 @@ Football Manager (also known as Worldwide Soccer Manager in North America from 2
 
 Fantasy 0x (F0x) is a global fantasy football game where you can collect your NFT players,manage them, and play to hear. The game is the combination of [Fantasy Premier League](https://fantasy.premierleague.com/), [Football Manager](https://www.footballmanager.com/#desktop) and NFT "Play-to-Earn" in crypto world.
 
-### A `Fantasy Premier League` feature of Fantasy0x
+### The `Fantasy Premier League` feature of Fantasy0x
 As a like of Fantasy Premier League, the end-users (players) can assemble an imaginary team of real life footballers and scores points based on those players' actual statistical performance or their perceived contribution on the field of play. Players are selected from one specific division based on team level.
 
-### Football Manager feature of Fantasy0x
+### The `Football Manager` feature of Fantasy0x
 
 With this feature, the `end-user` players can manage their common players and NFT players to practice to improve their drills by joining different mini-games. For PvP feature, 2 `end-user` players can play each other by selecting their team and the strategies. And all of the factors such recent performance, game match at home or away, weather, recent practices, players stats will be taken into account to simulate and model the match between two teams.
 
-### Play-to-Earn
+### Play-to-Earn feature
